@@ -1,0 +1,4 @@
+media means to use image audio and video sources in 3 ways 1.by copy link from internet
+                                                           2.by saving it in src folder of jxml
+                                                           3 by saveing it in public folder of jxml
+in audio and vedio we can must include controls word then only it will work other wise it wont work 
